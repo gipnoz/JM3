@@ -1,7 +1,9 @@
 package HomeWork2;
 
-/**
- * Created by User on 16.11.2016.
- */
 public class Arithmetic {
+    public int arr(int a, int b){
+        int sum = a+b;
+        return sum;
+    }
 }
+

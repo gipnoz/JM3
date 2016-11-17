@@ -25,6 +25,7 @@ class BirdJob {
         System.out.println("I am walking");
     }
     void whoAmI() {
+
         System.out.println("I am Bird");
     }
 }
